@@ -1,0 +1,8 @@
+pandas
+numpy
+missingno
+icecream
+re==3.10.4
+plotly==4.9
+kaleido==0.2.1
+sklearn==3.9
