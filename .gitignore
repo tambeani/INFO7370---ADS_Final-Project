@@ -5,7 +5,9 @@
 *.log
 
 # csv file
-*.csv
+survey_dropped_columns.csv
+survey_results_public.csv
+dice_com-job_us_sample.csv
 
 # BlueJ files
 *.ctxt
