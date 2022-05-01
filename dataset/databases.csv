@@ -1,0 +1,22 @@
+,databases
+0,Redis
+1,SQL Server
+2,MySQL
+3,PostgreSQL
+4,Amazon RDS/Aurora
+5,"Microsoft Azure (Tables, CosmosDB, SQL, etc)"
+6,Memcached
+7,Oracle
+8,IBM Db2
+9,MongoDB
+10,Google Cloud Storage
+11,Amazon DynamoDB
+12,Apache HBase
+13,Apache Hive
+14,Amazon Redshift
+15,Elasticsearch
+16,Neo4j
+17,MariaDB
+18,SQLite
+19,Google BigQuery
+20,Cassandra
